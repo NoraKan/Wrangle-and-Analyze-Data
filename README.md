@@ -23,4 +23,3 @@ requests
 os
 matplotlib.pyplot 
 %matplotlib inline
-
